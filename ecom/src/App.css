@@ -1,0 +1,43 @@
+.cartDetailImg {
+  height: 68%;
+  margin-top: 20px;
+}
+
+.detailsCard {}
+
+.price {
+  color: black;
+  font-weight: bold;
+}
+
+.actualPrice {
+  text-decoration: line-through;
+  color: #929294;
+  padding: 4px 10px 0px 10px;
+}
+
+.desc {
+  color: #929294;
+}
+
+.offer {
+  color: green;
+  padding-top: 4px;
+}
+
+.detailsBtn {
+  width: 48%;
+  margin-top: 20PX;
+}
+
+.detailImg {
+
+  border-radius: 10px;
+}
+
+.btnTotal {
+  border: none;
+  text-align: right;
+  outline: none;
+  background: white;
+}
